@@ -1,6 +1,6 @@
 {
   "name": "@rsantana/testproject",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "freecodecamp manage packages with npm project",
   "main": "index.js",
   "scripts": {
