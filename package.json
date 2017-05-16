@@ -1,6 +1,6 @@
 {
   "name": "@rsantana/testproject",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "freecodecamp manage packages with npm project",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,5 @@
     "url": "https://github.com/rsantana123/manage-npm-packages/issues"
   },
   "homepage": "https://github.com/rsantana123/manage-npm-packages#readme",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  }
+  "dependencies": {}
 }
